@@ -1,0 +1,16 @@
+enable : true
+image : images/about/stand.jpg
+title : Stand Out
+description : We don't just supply information to your potential customers, we present it in a way that grabs attention. Our team will help you understand how you can improve your online presence with minimal effort.
+aboutItem : 
+  - icon : tf-circle-compass
+    title : SEO Optimized
+    content : We use lightning fast, and modern web practices to make sure google sees you
+    
+  - icon : tf-twitter
+    title : Link Social Accounts
+    content : Build links between all of your social accounts to keep your audience engaged
+
+  - icon : tf-ion-iphone
+    title : Call to Action
+    content : We design for outcomes. Visitors are naturally encouraged to call, schedule appointments, or reach out

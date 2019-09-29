@@ -1,0 +1,16 @@
+enable : true
+bgImage : images/backgrounds/bg-2.jpg
+heading : Our
+headingSpan : Services
+serviceItem :
+  - icon : tf-globe
+    title : Prebuilt Themes
+    content : Select from a collection of themes for your website. We ensure wonderful design by using tried and proven themes
+    
+  - icon : tf-ion-laptop
+    title : Mobile First
+    content : All our websites are built to perform perfectly on desktop and mobile devices. Mobile responsiveness is an absolute must
+    
+  - icon : tf-dial
+    title : Beautiful Design
+    content : We have access to millions of images and icons that we will use to make your website's design visually stunning

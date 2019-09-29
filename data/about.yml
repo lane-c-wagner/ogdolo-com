@@ -1,0 +1,15 @@
+enable : true
+heading : About
+headingSpan : Us
+aboutItem : 
+- icon : tf-tools
+  title : We're Creative
+  content : You make simple theme and content decisions, and we craft a modern website that fits your needs
+
+- icon : tf-strategy
+  title : We're Professional
+  content : We are available to personally help you. If you have any special requirements or requests we will work with you to find a solution
+
+- icon : tf-anchor2
+  title : We're Savvy
+  content : Our team has past experience in large web applications. We've brought that knowledge to small web hosting to create the most inexpensive hosting solutions

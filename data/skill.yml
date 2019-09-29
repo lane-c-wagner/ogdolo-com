@@ -1,0 +1,26 @@
+enable : true
+heading : Our
+headingSpan : Difference
+title : Design, speed, and cost are more important to our customers than customization
+content : By streamlining the customization process, we are able to focus on beautiful design, lightning fast load times, inexpensive hosting costs, and unbeatable uptime
+image : images/about/difference.jpg
+skillItem :
+  - itemNumber : 01-
+    itemName :  Reliability
+    itemPercent : 99%
+
+  - itemNumber : 02-
+    itemName :  Speed
+    itemPercent : 98%
+    
+  - itemNumber : 03-
+    itemName : Design
+    itemPercent : 94%
+    
+  - itemNumber : 04-
+    itemName :  Inexpensive
+    itemPercent : 92%
+    
+  - itemNumber : 05-
+    itemName : Customization
+    itemPercent : 65%

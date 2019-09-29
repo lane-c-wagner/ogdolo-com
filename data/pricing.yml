@@ -1,0 +1,37 @@
+enable : true
+heading : Our Amazing
+headingSpan : Prices
+pricingTable :
+  - title : Consultation
+    price : Free
+    time: always
+    btnURL : #
+    btnText : Call or Email
+    plan :
+      - planDetails : Asses Current Situation
+      - planDetails : Explain Pricing and Options
+      - planDetails : Personalized Help
+      - planDetails : By Phone or Email
+      
+  - title : Setup
+    price : $99
+    time : once
+    btnURL : #
+    btnText : Call or Email
+    plan :
+      - planDetails : Includes a Domain Name
+      - planDetails : Includes SSL (HTTPS) Security Certificate
+      - planDetails : Choose From Hundreds of Themes
+      - planDetails : Simply Supply Us With Content
+      
+  - title : Hosting
+    price : $19
+    time : month
+    btnURL : #
+    btnText : Call or Email
+    plan :
+      - planDetails : Lightning Fast
+      - planDetails : Mobile Friendly
+      - planDetails : Inexpensive
+      - planDetails : Fully Managed by Us
+      - planDetails : 24/7 Availability

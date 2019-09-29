@@ -1,0 +1,78 @@
+baseURL = "https://ogdolo.com/"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+title = "Ogdolo"
+theme = "meghna-hugo"
+summaryLength = 10
+
+[taxonomies]
+  author = "author"
+  category = "categories"
+  tag = "tags"
+
+# Menu
+[menu]
+    [[menu.nav]]
+    name = "About"
+    URL = "about"
+    weight = 2
+
+    [[menu.nav]]
+    name = "Services"
+    URL = "services"
+    weight = 3
+
+    [[menu.nav]]
+    name = "Pricing"
+    URL = "pricing"
+    weight = 6
+
+    [[menu.nav]]
+    name = "Blog"
+    URL = "blog"
+    weight = 7
+
+    [[menu.nav]]
+    name = "Contact"
+    URL = "contact-us"
+    weight = 8
+
+# Site params
+[params]
+home= "Home"
+logo = "images/logo.png"
+# Meta data
+description = "Website Design and Hosting for Small Business"
+author = "Ogdolo"
+# Google Analitycs
+googleAnalitycsID = "UA-148998337-1"
+custom_css = ["css/custom.css"]
+
+    # Banner Section
+    [params.banner]
+    enable = true
+    bgImage = "images/slider/hero-area.jpg"
+    icon = "tf-ion-ios-cloud"
+    heading = "Experience Modern Web Hosting"
+    content= "Ogdolo provides mobile friendly, inexpensive, fully managed websites for small businesses. You focus on your business, we'll maintain your site."
+    btn = true
+    btnText="Explore Us"
+    btnURL="#services"
+
+    # footer
+    [params.footer]
+        copyright = "Ogdolo"
+        copyrightURL = "https://ogdolo.com"
+
+        # social Icons
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-facebook"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-twitter"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-linkedin"
+        url = "#"
