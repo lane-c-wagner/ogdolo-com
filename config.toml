@@ -40,7 +40,7 @@ summaryLength = 10
 # Site params
 [params]
 home= "Home"
-logo = "images/logo.png"
+logo = "images/logo.svg"
 # Meta data
 description = "Website Design and Hosting for Small Business"
 author = "Ogdolo"
