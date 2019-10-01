@@ -1,7 +1,7 @@
 enable : true
 bgImage : images/backgrounds/bg-2.jpg
-heading : Our
-headingSpan : Services
+heading : What
+headingSpan : We Do
 serviceItem :
   - icon : tf-globe
     title : Prebuilt Themes

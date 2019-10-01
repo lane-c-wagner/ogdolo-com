@@ -16,12 +16,7 @@ summaryLength = 10
     name = "About"
     URL = "about"
     weight = 2
-
-    [[menu.nav]]
-    name = "Services"
-    URL = "services"
-    weight = 3
-
+    
     [[menu.nav]]
     name = "Pricing"
     URL = "pricing"
