@@ -5,8 +5,8 @@ pricingTable :
   - title : Consultation
     price : Free
     time: always
-    btnURL : #
-    btnText : Call or Email
+    btnURL : mailto:support@ogdolo.com
+    btnText : Email Now
     plan :
       - planDetails : Asses Current Situation
       - planDetails : Explain Pricing and Options
@@ -16,8 +16,8 @@ pricingTable :
   - title : Setup
     price : $99
     time : once
-    btnURL : #
-    btnText : Call or Email
+    btnURL : mailto:support@ogdolo.com
+    btnText : Email Now
     plan :
       - planDetails : Includes a Domain Name
       - planDetails : Includes SSL (HTTPS) Security Certificate
@@ -27,8 +27,8 @@ pricingTable :
   - title : Hosting
     price : $19
     time : month
-    btnURL : #
-    btnText : Call or Email
+    btnURL : mailto:support@ogdolo.com
+    btnText : Email Now
     plan :
       - planDetails : Lightning Fast
       - planDetails : Mobile Friendly

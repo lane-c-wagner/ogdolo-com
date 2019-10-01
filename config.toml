@@ -54,25 +54,7 @@ custom_css = ["css/custom.css"]
     bgImage = "images/slider/hero-area.jpg"
     icon = "tf-ion-ios-cloud"
     heading = "Experience Modern Web Hosting"
-    content= "Ogdolo provides mobile friendly, inexpensive, fully managed websites for small businesses. You focus on your business, we'll maintain your site."
+    content= "Ogdolo provides mobile friendly, inexpensive, fully managed websites for small businesses. You focus on your business, we'll maintain your site"
     btn = true
-    btnText="Explore Us"
-    btnURL="#services"
-
-    # footer
-    [params.footer]
-        copyright = "Ogdolo"
-        copyrightURL = "https://ogdolo.com"
-
-        # social Icons
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-facebook"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-twitter"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-linkedin"
-        url = "#"
+    btnText="EMAIL SUPPORT@OGDOLO.COM TO START"
+    btnURL="mailto:support@ogdolo.com"
