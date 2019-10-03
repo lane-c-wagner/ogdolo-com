@@ -9,6 +9,7 @@ image = "images/blog/hugo.jpg"
 
 ## Ogdolo Chooses Hugo
 
+
 We started Ogdolo to help small businesses create their marketing websites the way they should be:
 
 * Fast
