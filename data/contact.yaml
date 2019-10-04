@@ -3,9 +3,7 @@ heading : Get In
 headingSpan : Touch
 title : Contact Details
 content : Email us to setup a free consultation
-enable_maps : true
-mapLatitude : 51.5223477
-mapLongitude : -0.1622023
+enable_maps : false
 socialIcons :
   - icon : tf-ion-social-facebook
     url : "https://www.facebook.com/ogdolocom"
