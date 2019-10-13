@@ -35,7 +35,7 @@ summaryLength = 10
 # Site params
 [params]
 home= "Home"
-logo = "images/logo.svg"
+logo = "images/logo.png"
 # Meta data
 description = "Website Design and Hosting for Small Business"
 author = "Ogdolo"
@@ -47,7 +47,7 @@ custom_css = ["css/custom.css"]
     [params.banner]
     enable = true
     bgImage = "images/slider/hero-area.jpg"
-    icon = "tf-ion-ios-cloud"
+    icon = "images/logo.png"
     heading = "Experience Modern Web Hosting"
     content= "Ogdolo provides mobile friendly, inexpensive, fully managed websites for small businesses. You focus on your business, we'll maintain your site"
     btn = true
