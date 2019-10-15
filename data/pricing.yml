@@ -14,7 +14,7 @@ pricingTable :
       - planDetails : By Phone or Email
       
   - title : Setup
-    price : $99
+    price : $299
     time : once
     btnURL : mailto:support@ogdolo.com
     btnText : Email Now
