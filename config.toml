@@ -40,7 +40,7 @@ logo = "images/logo.png"
 description = "Website Design and Hosting for Small Business"
 author = "Ogdolo"
 # Google Analitycs
-googleAnalitycsID = "UA-148998337-1"
+googleAnalitycsID = "UA-150858530-1"
 custom_css = ["css/custom.css"]
 
     # Banner Section
