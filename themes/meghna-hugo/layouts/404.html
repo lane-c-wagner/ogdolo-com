@@ -1,7 +1,14 @@
 {{ define "main"}}
 <main id="main">
-  <div>
-    <h1 id="title"><a href="{{ "/" | relURL }}">You got lost! Go home.</a></h1>
+  <div class="hero-area" >
+    <div class="block">
+      {{with .Site.Params.banner.icon}}
+        <img width="300" src="{{ . }}" alt="Logo" />
+      {{ end }}
+      <h1 id="title">
+        <a href="{{ "/" | relURL }}">You got lost! Go home.</a>
+      </h1>
+    </div>
   </div>
 </main>
 {{ end }}
