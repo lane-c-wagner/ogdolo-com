@@ -1,8 +1,8 @@
 enable : true
 heading : Our
 headingSpan : Difference
-title : Design, speed, and cost are more important to our customers than customization
-content : By streamlining the customization process, we are able to focus on beautiful design, lightning fast load times, inexpensive hosting costs, and unbeatable uptime
+title : We turn visitors into customers, everything else is secondary
+content : 'We have streamlined development and hosting processes in order to focus on what matters to you: securing new clients. We optimize for your designated call-to-action, whether that be more calls, clicks, or emails.'
 image : images/about/difference.jpg
 skillItem :
   - itemNumber : 01-
@@ -23,4 +23,4 @@ skillItem :
     
   - itemNumber : 05-
     itemName : Customization
-    itemPercent : 65%
+    itemPercent : 75%

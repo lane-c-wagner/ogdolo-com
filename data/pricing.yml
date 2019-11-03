@@ -13,25 +13,26 @@ pricingTable :
       - planDetails : Personalized Help
       - planDetails : By Phone or Email
       
-  - title : Setup
-    price : $299
-    time : once
+  - title : Static Site
+    price : $299 Setup
+    time : $19-Mo Hosting
     btnURL : mailto:support@ogdolo.com
     btnText : Email Now
     plan :
-      - planDetails : Includes a Domain Name
-      - planDetails : Includes SSL (HTTPS) Security Certificate
-      - planDetails : Choose From Hundreds of Themes
-      - planDetails : Simply Supply Us With Content
+      - planDetails : Lightning Fast Load Times
+      - planDetails : SSL (HTTPS) Security Certificate 
+      - planDetails : Custom Built Site Tuned to Your Needs
+      - planDetails : New Domain Name
+      - planDetails : Mobile First
       
-  - title : Hosting
-    price : $19
-    time : month
+  - title : Wordpress Site
+    price : $499 Setup
+    time : $29-Mo Hosting
     btnURL : mailto:support@ogdolo.com
     btnText : Email Now
     plan :
-      - planDetails : Lightning Fast
-      - planDetails : Mobile Friendly
-      - planDetails : Inexpensive
-      - planDetails : Fully Managed by Us
-      - planDetails : 24/7 Availability
+      - planDetails : Login portal to post blogs and updates
+      - planDetails : SSL (HTTPS) Security Certificate 
+      - planDetails : Custom Built Site Tuned to Your Needs
+      - planDetails : New Domain Name
+      - planDetails : Mobile First
