@@ -1,0 +1,26 @@
+enable : true
+heading : Some Of
+headingSpan : Our Work
+filterList :
+
+portfolioItem :
+  - types : design, development
+    image : images/portfolio/qvault.png
+    icon : tf-ion-android-search
+    URL : https://qvault.io
+    title : Qvault.io - Technical Blog
+    description : Ogdolo designed and hosts Qvault's techincal articles!
+    
+  - types : design, development
+    image : images/portfolio/contentpipes.jpg
+    icon : tf-ion-android-search
+    URL : https://contentpipes.com
+    title : ContentPipes.com - Marketing Site
+    description : ContentPipes is a data aggregation application. Ogdolo maintains their marketing website!
+    
+  - types : development
+    image : images/portfolio/scissorcrafts.jpg
+    icon : tf-ion-android-search
+    URL : https://scissorcrafts.com
+    title : Scissorcrafts.com - Image Subscription
+    description : Ogdolo proudly hosts scissorcrafts, a website for teachers and parents to download crafts for kids.

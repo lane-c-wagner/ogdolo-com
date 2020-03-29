@@ -1,6 +1,6 @@
 enable : true
 heading : Our Amazing
-headingSpan : Prices
+headingSpan : Starting Prices
 pricingTable :
   - title : Consultation
     price : Free
