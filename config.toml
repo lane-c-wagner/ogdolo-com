@@ -23,9 +23,9 @@ summaryLength = 10
     weight = 6
 
     [[menu.nav]]
-    name = "Blog"
-    URL = "blog"
-    weight = 7
+    name = "Portfolio"
+    URL = "portfolio"
+    weight = 4
 
     [[menu.nav]]
     name = "Contact"
