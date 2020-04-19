@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ogdolo</title>
+    <link>https://ogdolo.com/</link>
+    <description>Recent content on Ogdolo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ogdolo.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo Makes Small Business Hosting Great</title>
+      <link>https://ogdolo.com/blog/ogdolo-chooses-hugo/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ogdolo.com/blog/ogdolo-chooses-hugo/</guid>
+      <description>Ogdolo Chooses Hugo We started Ogdolo to help small businesses create their marketing websites the way they should be:</description>
+    </item>
+    
+    <item>
+      <title>Systems and Processes that Aren’t in Code are Terrifying</title>
+      <link>https://ogdolo.com/blog/systems-and-processes-that-arent-in-code-are-terrifying/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ogdolo.com/blog/systems-and-processes-that-arent-in-code-are-terrifying/</guid>
+      <description>The dreaded:
+15 6 2 1 * /home/lane/backup.shYou may recognize this as a unix cronjob, a job that is scheduled to run on a server periodically.</description>
+    </item>
+    
+  </channel>
+</rss>

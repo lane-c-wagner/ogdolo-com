@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Author on Ogdolo</title>
+    <link>https://ogdolo.com/author/</link>
+    <description>Recent content in Author on Ogdolo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ogdolo.com/author/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://ogdolo.com/author/lane-wagner/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ogdolo.com/author/lane-wagner/</guid>
+      <description>Bitcoiner, engineer, libertarian, atheist, and founder of https://qvault.io and https://ogdolo.com</description>
+    </item>
+    
+  </channel>
+</rss>
